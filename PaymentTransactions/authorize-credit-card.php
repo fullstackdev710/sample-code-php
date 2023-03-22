@@ -130,4 +130,3 @@ function authorizeCreditCard($amount)
 if (!defined('DONT_RUN_SAMPLES')) {
     authorizeCreditCard("2.23");
 }
-?>
